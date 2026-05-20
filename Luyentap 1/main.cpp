@@ -1,14 +1,14 @@
 Bai 1
 
-tuoi = 19
+Integer = 67
 
-diem_so = 10
+float = 76
 
-ten = "Đỗ Hồng Quân"
+string = "Six seven"
 
-print("Tuổi (Integer):", tuoi)
-print("Điểm số (Float):", diem_so)
-print("Tên (String):", ten)
+print("Tuổi (Integer):", Integer)
+print("Điểm số (Float):", float)
+print("Tên (String):", string)
 
 Bai 2
 
